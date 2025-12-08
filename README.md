@@ -25,9 +25,9 @@ Calculated values:
 - [x] 3. Take measurements
 - [ ] 4. Draw contour map
     - [x] show measurements on a gridded map
-    - [ ] draw contours on the map to recreate the terrain in the box
-    - [ ] include contour labels
-    - [ ] include units
+    - [x] draw contours on the map to recreate the terrain in the box
+    - [x] include contour labels
+    - [x] include units
 - [ ] 5. Cost
     - [ ] estimate how much it cost, assuming
     - speed of 10 kts
